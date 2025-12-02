@@ -1,9 +1,9 @@
 ## Hey there 😊
 
-My name's **Mario** 🍄
+### My name's **Mario** 🍄
 
-Currently I am still in school and trying to learn programming ^^
-Everything I program is either for school or own projects for fun
+Currently I am still in school and trying to learn programming. ^^ <br>
+Everything I program is either for school or own projects for fun.
 
 <!--
 **bestpg/bestpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
